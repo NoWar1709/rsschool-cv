@@ -19,7 +19,7 @@ I started learning Front-end. I have the desire and perseverance to learn new th
    - ukr.net  
 ### Education:
 - Interregional Academy of Personnel Management (Khmelnytskyi)
-- RS Schools Course «Front-end. Stage 0» (in progress)  
+- RS Schools Course «Front-end. Stage 0» (in progress)
 ### Languages:
  - Ukrainian: Basic
  - English: initial level

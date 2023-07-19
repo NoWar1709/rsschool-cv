@@ -17,10 +17,10 @@ I started learning Front-end. I have the desire and perseverance to learn new th
    - gmail
    - yahoo
    - ukr.net  
-### Education:
+**Education:**
 - Interregional Academy of Personnel Management (Khmelnytskyi)
-- RS Schools Course «Front-end. Stage 0» (in progress)
-### Languages:
+- RS Schools Course «Front-end. Stage 0»
+**Languages:**
  - Ukrainian: Basic
- - English: initial level
+ - English: initial level  
 ![My avatar](https://ic.pics.livejournal.com/tanjand/44781189/95461836/95461836_original.jpg)

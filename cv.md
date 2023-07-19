@@ -17,7 +17,7 @@ I started learning Front-end. I have the desire and perseverance to learn new th
    - gmail
    - yahoo
    - ukr.net  
-### Education: 
+### Education:
 - Interregional Academy of Personnel Management (Khmelnytskyi)
 - RS Schools Course «Front-end. Stage 0» (in progress)  
 ### Languages:

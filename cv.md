@@ -23,3 +23,4 @@ I started learning Front-end. I have the desire and perseverance to learn new th
 ### Languages:
  - Ukrainian: Basic
  - English: initial level
+![My avatar](https://ic.pics.livejournal.com/tanjand/44781189/95461836/95461836_original.jpg)
